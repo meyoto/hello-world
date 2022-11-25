@@ -1,0 +1,14 @@
+char* StrCpy(char* src)
+{
+	
+	for（int len = 0;; len++)
+	{
+	if(*(src+i)=='\0'
+		break;
+     }
+	cout<<len;
+	char* a;
+	a= (char*)malloc(sizeof(char)*(len+1));
+
+
+ }
